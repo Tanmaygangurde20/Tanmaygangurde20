@@ -1,25 +1,68 @@
-# 👋 Hi there, I'm Tanmay Gangurde!
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+
+# 🌟 Hey Universe, I'm Tanmay Gangurde! 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🚀+AI+%26+ML+Engineer+🚀;🧠+Deep+Learning+Enthusiast+🧠;🤖+Generative+AI+Explorer+🤖;💡+Problem+Solver+%26+Innovator+💡" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+### 🎓 B.Tech CSE (AI & ML) | Rajarambapu Institute of Technology
+### 🌈 *"Transforming Ideas into Intelligent Reality"*
 
 </div>
 
-🎓 **B.Tech CSE (AI & ML)** at Rajarambapu Institute of Technology  
-🚀 Passionate about building **intelligent systems** that solve real-world problems  
-🧠 Exploring the frontiers of **Generative AI** and **Graph Neural Networks**
-
 ---
 
-## 🔥 About Me
+<div align="center">
 
-I'm on a mission to bridge the gap between cutting-edge AI research and practical applications. My journey revolves around:
+## 🚀 About My Journey
 
-- 🤖 **Generative AI**: Building RAG pipelines, working with LLMs, and creating intelligent chatbots
-- 🧠 **Deep Learning**: Computer Vision, NLP, and Graph Neural Networks
-- 🏥 **AI for Good**: Healthcare automation and document intelligence systems
-- 💡 **Innovation**: Turning research papers into working prototypes
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+🌟 **On a mission to revolutionize the world through AI!** From dreaming in algorithms to building systems that think, learn, and adapt—I'm your friendly neighborhood AI wizard turning sci-fi fantasies into reality.
+
+### 🎯 What Drives Me:
+
+<table>
+<tr>
+<td width="50%">
+
+🤖 **Generative AI Magician**
+- Crafting RAG pipelines that understand context like a human brain
+- Building LLM-powered chatbots that actually *get* what you're saying
+- Making AI conversations feel natural and meaningful
+
+</td>
+<td width="50%">
+
+🧠 **Deep Learning Architect** 
+- Designing neural networks that see, understand, and predict
+- Exploring Graph Neural Networks for molecular mysteries
+- Creating Computer Vision systems that perceive beyond pixels
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🏥 **AI for Humanity**
+- Healthcare automation that saves lives and time
+- Document intelligence that cuts through complexity
+- Building technology that makes the world a little bit better
+
+</td>
+<td width="50%">
+
+💡 **Research-to-Reality Translator**
+- Taking cutting-edge papers and making them work in the real world
+- Bridging the gap between academic brilliance and practical solutions
+- Turning "what if" into "here it is"
+
+</td>
+</tr>
+</table>
 
 ---
 
