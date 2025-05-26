@@ -95,7 +95,7 @@ My enthusiasm extends to exploring the **cutting-edge of Generative AI**, with p
 
 - 📚 Mastering **LangGraph** and **CrewAI** for multi-agent orchestration  
 - 🔬 Researching **Explainable AI** for healthcare and document intelligence  
-- 🌐 Actively contributing to **open-source AI projects**  
+- 🌐 
 - 💡 Building the next wave of **intelligent assistants**
 
 ---
