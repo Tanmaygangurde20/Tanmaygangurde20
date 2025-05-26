@@ -1,8 +1,6 @@
 <div align="center">
 
 # 🌟 Hey Universe, I'm Tanmay Gangurde! 🌟
-### 🎓 B.Tech CSE (AI & ML) | Rajarambapu Institute of Technology
-### 🌈 *"Transforming Ideas into Intelligent Reality"*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🚀+AI+%26+ML+Engineer+🚀;🧠+Deep+Learning+Enthusiast+🧠;🤖+Generative+AI+Explorer+🤖;💡+Problem+Solver+%26+Innovator+💡" alt="Typing SVG" />
 
