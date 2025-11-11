@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 **Hey Universe, I'm Tanmay Gangurde!** 🌟  
-### *AI Engineer | Agentic Systems Architect | Generative AI Enthusiast*
+### *AI Engineer | ML Engineer | Generative AI Enthusiast*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tanmaygangurde20&color=brightgreen&style=for-the-badge&label=Visitors)
 
@@ -11,20 +11,9 @@
 ---
 
 ## 🚀 **About Me**
-I'm a **Machine Learning & AI Engineer** passionate about building **intelligent, scalable, and agentic systems** that solve real-world problems.  
-I specialize in **Generative AI**, **Multi-Agent Orchestration**, and **Production-Grade RAG Pipelines**.
+I'm a **Machine Learning & AI Engineer** passionate about building ** agentic systems** that solve real-world problems.  
+I specialize in **Generative AI**, **Core Deep Learning** and **LLM**
 
-> 🧠 *"I don't just build models — I design intelligent ecosystems."*
-
-### 🔮 **Core Interests**
-- Generative AI & LLM-driven applications  
-- Graph Neural Networks (GNNs) & Explainable AI  
-- Multi-Agent Automation with **LangGraph**, **CrewAI**, **LangChain**  
-- RAG Systems, Document Intelligence & Semantic Search  
-- AI for Healthcare, Legal, and Enterprise Workflows  
-- Real-time News Intelligence & Sentiment Pipelines  
-
----
 
 ## 🛠️ **Tech Arsenal**
 
@@ -97,6 +86,17 @@ I specialize in **Generative AI**, **Multi-Agent Orchestration**, and **Producti
 </div>
 
 ---
+
+### 🔮 **Core Interests**
+- Generative AI & LLM-driven applications  
+- Graph Neural Networks (GNNs) & Explainable AI  
+- Multi-Agent Automation with **LangGraph**, **CrewAI**, **LangChain**  
+- RAG Systems, Document Intelligence & Semantic Search  
+- AI for Healthcare, Legal, and Enterprise Workflows  
+- Real-time News Intelligence & Sentiment Pipelines  
+
+---
+
 
 ## 📊 **GitHub Stats**
 
