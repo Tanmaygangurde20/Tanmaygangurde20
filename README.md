@@ -1,149 +1,154 @@
 <div align="center">
 
-# 🌟 **Hey Universe, I'm Tanmay Gangurde!** 🌟  
-### *AI Engineer | ML Engineer | Generative AI Enthusiast*
+# 👋 Hi, I'm Tanmay Gangurde
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Tanmaygangurde20&color=brightgreen&style=for-the-badge&label=Visitors)
+### AI/ML Engineer | Generative AI Enthusiast | Building Intelligent Systems
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-gangurde-112856265)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Tanmaygangurde20)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanmaygangurde10@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Tanmaygangurde20&color=blueviolet&style=flat)
 
 </div>
 
 ---
 
-## 🚀 **About Me**
-I'm a **Machine Learning & AI Engineer** passionate about building ** agentic systems** that solve real-world problems.  
-I specialize in **Generative AI**, **Core Deep Learning** and **LLM**
+## 🎓 About Me
 
+I'm a **Machine Learning & AI Engineer** specializing in **Generative AI**, **Deep Learning**, and **Agentic Systems**. I'm passionate about building intelligent solutions that bridge the gap between cutting-edge research and real-world applications.
 
-## 🛠️ **Tech Arsenal**
+- 🔭 Currently working on **Multi-Agent Systems** and **RAG Architectures**
+- 🌱 Learning **LangGraph**, **Advanced RAG**, and **Production ML**
+- 💡 Focused on **LLM Applications** and **Generative AI Solutions**
+- 🎯 Building the future of **Intelligent Automation**
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### AI/ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+### Generative AI & LLM Tools
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-1B1F23?style=flat&logoColor=yellow)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=00D1FF)
+![Groq](https://img.shields.io/badge/Groq-FF6B6B?style=flat&logoColor=white)
+
+### Web Development & APIs
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+🔬 **Research & Development**
+- Building production-grade **Multi-Agent Systems** with LangGraph & CrewAI
+- Optimizing **RAG architectures** with advanced chunking strategies
+- Developing **explainable AI** solutions for healthcare & legal domains
+- Creating **real-time intelligence systems** with sentiment analysis
+
+🚀 **Active Projects**
+- Agentic workflows with session memory & tool calling
+- Vector database optimization (ChromaDB, Pinecone)
+- Custom embedding models for domain-specific applications
+- Scalable LLM deployment strategies
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanmaygangurde20&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaygangurde20&theme=radical&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaygangurde20&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanmaygangurde20&theme=react-dark&hide_border=true)](https://github.com/Tanmaygangurde20)
+
+</div>
+
+---
+
+## 💡 Core Expertise
+
+**Generative AI & LLMs**
+- Fine-tuning & prompt engineering for LLMs
+- RAG system design & optimization
+- Multi-modal AI applications
+- LLM evaluation & benchmarking
+
+**Agentic Systems**
+- Multi-agent orchestration (LangGraph, CrewAI)
+- Tool integration & function calling
+- Memory management & context retention
+- Autonomous workflow design
+
+**Machine Learning**
+- Deep learning architectures (CNNs, RNNs, Transformers)
+- Computer vision & NLP
+- Model deployment & MLOps
+- Graph Neural Networks (GNNs)
+
+---
+
+## 🌱 Learning Journey
+
+Currently expanding my knowledge in:
+- Advanced agentic architectures & planning algorithms
+- Production ML systems & model monitoring
+- Distributed training & optimization techniques
+- AI safety & alignment research
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always interested in:
+- Open-source AI/ML projects
+- Research collaborations
+- Innovative GenAI applications
+- Tech discussions & knowledge sharing
+
+**Open to:** Internships, Research Opportunities, AI Consulting, and Building Cool Stuff!
+
+---
 
 <div align="center">
 
-### 🚀 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 📫 Get In Touch
 
-### ⚙️ **Frameworks & APIs**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanmay-gangurde-112856265)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail)](mailto:tanmaygangurde10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Tanmaygangurde20)
 
-### 🤖 **AI/ML & Data Science**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+---
 
-### 🧠 **Generative AI & Agentic Systems**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=cyan)
-![CrewAI](https://img.shields.io/badge/CrewAI-1B1F23?style=for-the-badge&logo=crewai&logoColor=yellow)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00D1FF)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-FF6B6B?style=for-the-badge&logo=groq&logoColor=white)
+*"Building the future, one intelligent system at a time."* 🚀
 
-### 🔗 **Advanced AI Skills**
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-6C3428?style=for-the-badge&logo=agents&logoColor=white)
-![RAG Optimization](https://img.shields.io/badge/RAG_Optimization-4A90E2?style=for-the-badge&logo=retrievalaugmentedgeneration&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-28A745?style=for-the-badge&logo=chromadb&logoColor=white)
-![Embedding Models](https://img.shields.io/badge/Embedding_Models-9B59B6?style=for-the-badge&logo=transformers&logoColor=white)
-![Web Search Agents](https://img.shields.io/badge/Web_Search_Agents-3498DB?style=for-the-badge&logo=duckduckgo&logoColor=white)
-
-### 🛠️ **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
----
-
-## 🔥 **Cutting-Edge Expertise**
-
-<div align="center">
-
-| Skill | Badge |
-|------|-------|
-| **Model Context Protocol (MCP)** | ![MCP](https://img.shields.io/badge/MCP-8E44AD?style=for-the-badge) |
-| **Gemini (Pro, 2.0, 2.5 Flash)** | ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white) |
-| **Groq LLMs (Llama3-70B, Qwen)** | ![Groq LLMs](https://img.shields.io/badge/Groq_LLMs-FF5733?style=for-the-badge) |
-| **Session Memory Management** | ![Memory](https://img.shields.io/badge/Session_Memory-27AE60?style=for-the-badge) |
-| **ChromaDB & Vector Search** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-1ABC9C?style=for-the-badge) |
-| **HF Transformers** | ![HF](https://img.shields.io/badge/HF_Transformers-FF6F61?style=for-the-badge) |
-| **ArXiv & DuckDuckGo Agents** | ![Search Agents](https://img.shields.io/badge/Search_Agents-3498DB?style=for-the-badge) |
-| **Doc Processing (PyPDF2, docx)** | ![Doc AI](https://img.shields.io/badge/Doc_Processing-16A085?style=for-the-badge) |
-| **News Sentiment Pipelines** | ![Sentiment](https://img.shields.io/badge/News_Sentiment-9B59B6?style=for-the-badge) |
-| **CycleGAN & Image Restoration** | ![CycleGAN](https://img.shields.io/badge/CycleGAN-FF6B6B?style=for-the-badge) |
-| **Prompt Engineering** | ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-4A90E2?style=for-the-badge) |
-| **Fallback LLM Architecture** | ![Fallback](https://img.shields.io/badge/Fallback_LLM-27AE60?style=for-the-badge) |
-
-</div>
-
----
-
-### 🔮 **Core Interests**
-- Generative AI & LLM-driven applications  
-- Graph Neural Networks (GNNs) & Explainable AI  
-- Multi-Agent Automation with **LangGraph**, **CrewAI**, **LangChain**  
-- RAG Systems, Document Intelligence & Semantic Search  
-- AI for Healthcare, Legal, and Enterprise Workflows  
-- Real-time News Intelligence & Sentiment Pipelines  
-
----
-
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmaygangurde20&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaygangurde20&layout=compact&theme=dracula&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmaygangurde20&theme=dracula&hide_border=true)
-
-</div>
-
----
-
-## 🎯 **Current Focus**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Working_On-GenAI_%7C_RAG_%7C_MultiAgent-blueviolet?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
-</div>
-
-- 🔗 **Orchestrating Multi-Agent Systems** with **LangGraph + CrewAI**  
-- 🧠 **Production-Grade RAG** with **ChromaDB + Fallback LLMs**  
-- 🏥 **Explainable AI** in **Healthcare & Legal Automation**  
-- 🌐 **Scalable Agentic Workflows** with **Session Memory & MCP**  
-- 📰 **Real-time News Intelligence** with **Sentiment + Technical Analysis**
-
----
-
-## 🤝 **Let's Connect!**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-gangurde-112856265)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanmaygangurde20)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaygangurde10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com) <!-- Add if you have one -->
-
-</div>
-
----
-
-<div align="center">
-
-
-<img src="https://moe-counter.glitch.me/get/@Tanmaygangurde20?theme=rule34" alt="Counter" />
-
-</div>
-
----
-
-**P.S.** Open to **collaboration**, **AI consulting**, or **building the next big agentic system** together! 🚀
