@@ -82,10 +82,14 @@ I'm a **Machine Learning & AI Engineer** specializing in **Generative AI**, **De
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanmaygangurde20&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaygangurde20&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tanmaygangurde20&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaygangurde20&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Tanmaygangurde20&theme=radical&hide_border=true&cache_seconds=86400" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tanmaygangurde20&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" />
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanmaygangurde20&theme=react-dark&hide_border=true)](https://github.com/Tanmaygangurde20)
 
