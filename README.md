@@ -13,7 +13,7 @@
 
 ---
 
-## 🎓 About Me
+##  About Me
 
 I'm a **Machine Learning & AI Engineer** specializing in **Generative AI**, **Deep Learning**, and **Agentic Systems**. I'm passionate about building intelligent solutions that bridge the gap between cutting-edge research and real-world applications.
 
